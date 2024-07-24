@@ -302,7 +302,7 @@
       </div>
 
       <!-- PROJECT4 -->
-      <div>
+      <div id="projects">
         <a href="https://www.smartbloks.ai/" target="_blank">
           <div class="flex items-center justify-center">
             <swiper :navigation="true" :modules="modules" class="mySwiper">
